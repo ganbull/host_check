@@ -1,0 +1,1 @@
+curl -s -X POST https://api.telegram.org/bot0000000:AAAAAAAAAAAAA-BBBBBBBBBBBBB/sendMessage -d chat_id=-10000000 -d text="WARNING! NETWORK UNAVAILIBLE"
