@@ -10,7 +10,7 @@ apt upgrade
 apt install mc
 cd /home
 mcedit ping.sh
- then copy text from file ping.sh and past by shift+insert
+#then copy text from file ping.sh and past by shift+insert
 mcedit alert.sh
 #then copy text from file alert.sh and past by shift+insert
 mcedit list.txt
